@@ -1,4 +1,4 @@
-# tzm-cli-vue2-template
+# tzm-cli-template-vue2
 
 ## Project setup
 
